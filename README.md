@@ -1,2 +1,3 @@
 # SQL-POWERBI-PROJECT
-Data Analysis using SQL-POWER_BI
+Pizza Sales Analysis using SQL-POWER_BI
+
